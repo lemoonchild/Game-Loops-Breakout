@@ -6,7 +6,7 @@ A simple Breakout clone built with [Lua](https://www.lua.org/) and the [LÖVE](h
 
 ![Gameplay demo](docs/demo.gif)
 
-*Add a GIF of the game running here, e.g. `docs/demo.gif`.*
+<img width="586" height="458" alt="breakout" src="https://github.com/user-attachments/assets/2015d3e4-a86f-4f2e-9087-eabbe43480df" />
 
 ## Gameplay
 
